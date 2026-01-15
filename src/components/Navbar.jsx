@@ -21,9 +21,9 @@ function Navbar() {
             </Link>
             <Link
                 className='text-sm md:text-xl hover:scale-110 transition-transform duration-300 ease-in-out'
-                to='/pricing'
+                to='/gallery'
             >
-                Pricing
+                Gallery
             </Link> 
             <Link
                 className='text-sm md:text-xl hover:scale-110 transition-transform duration-300 ease-in-out'

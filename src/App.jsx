@@ -13,7 +13,7 @@ function App({ containerRef }) {
         <Route path="/" element={<Layout />}>
           <Route index element={<Home containerRef={containerRef} />} />
           <Route path="/features" element={<Features />} />
-          <Route path="/pricing" element={<Gallery />} />
+          <Route path="/gallery" element={<Gallery />} />
           <Route path="/about" element={<About />} />
         </Route>
       </Routes>
