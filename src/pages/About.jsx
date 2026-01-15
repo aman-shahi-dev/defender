@@ -10,7 +10,7 @@ function About() {
       transition={{ duration: 0.5 }}
       className='flex flex-col w-full flex-1 items-center justify-start p-4'
     >
-      <img src="/land-rover.svg" alt="" width='200' height='200' className='select-none' />
+      <img src="/defender/land-rover.svg" alt="" width='200' height='200' className='select-none' />
       <div className='flex gap-10 mt-10'>
         <img src="/defender/octa-1.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
         <img src="/defender/octa-2.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
