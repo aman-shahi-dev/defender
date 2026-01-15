@@ -12,9 +12,9 @@ function About() {
     >
       <img src="/land-rover.svg" alt="" width='200' height='200' className='select-none' />
       <div className='flex gap-10 mt-10'>
-        <img src="/octa-1.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
-        <img src="/octa-2.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
-        <img src="/octa-3.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
+        <img src="/defender/octa-1.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
+        <img src="/defender/octa-2.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
+        <img src="/defender/octa-3.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
       </div>
       <h1 className='text-4xl font-bold mt-15'>
         Sculpted for Purpose. Engineered for Excellence.

@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="flex items-center px-10 justify-between py-2 gap-10 h-16 sticky top-0 left-0 right-0 bg-black font-jost">
 
-        <img src="/land-rover.svg" alt="Land Rover Logo" width="70" height="50" className="select-none" />
+        <img src="/defender/land-rover.svg" alt="Land Rover Logo" width="70" height="50" className="select-none" />
 
         <div className="flex space-x-10 items-center justify-center h-full">
             <Link
