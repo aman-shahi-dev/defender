@@ -3,15 +3,15 @@ import GalleryCard from "../components/GalleryCard"
 function Gallery() {
   const details = [
     {
-      img: '/octa-1.jpg',
+      img: '/defender/octa-1.jpg',
       title: 'View 1',
     },
     {
-      img: '/octa-2.jpg',
+      img: '/defender/octa-2.jpg',
       title: 'View 2',
     },
     {
-      img: '/octa-3.jpg',
+      img: '/defender/octa-3.jpg',
       title: 'View 3',
     }
   ]
