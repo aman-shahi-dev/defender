@@ -23,7 +23,7 @@ function Features() {
   ]
 
   return (
-    <div className='flex w-full flex-1 gap-4 items-center flex-col p-10 gap-10'>
+    <div className='flex w-full flex-1 gap-4 items-center flex-col p-2 md:p-10 gap-10'>
       <motion.h1 
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}

@@ -11,15 +11,15 @@ function About() {
       className='flex flex-col w-full flex-1 items-center justify-start p-4'
     >
       <img src="/defender/land-rover.svg" alt="" width='200' height='200' className='select-none' />
-      <div className='flex gap-10 mt-10'>
+      <div className='flex gap-10 mt-10 flex-col md:flex-row'>
         <img src="/defender/octa-1.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
         <img src="/defender/octa-2.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
         <img src="/defender/octa-3.jpg" alt="" width='250' height='100' className='select-none rounded-lg' />
       </div>
-      <h1 className='text-4xl font-bold mt-15'>
+      <h1 className='text-xl md:text-4xl font-bold mt-15'>
         Sculpted for Purpose. Engineered for Excellence.
       </h1>
-      <h3 className='text-lg max-w-xl text-center mt-10'>
+      <h3 className='text-sm md:text-lg max-w-xl text-center mt-10'>
         The Defender isn't just a vehicle; it is a design statement carved from a single block of aluminum. Whether viewed from the front, side, or rear, it projects a posture of quiet confidence.
       </h3>
     </motion.div>

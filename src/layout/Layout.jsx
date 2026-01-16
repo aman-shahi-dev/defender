@@ -5,7 +5,7 @@ import { motion } from "motion/react";
 
 function Layout() {
   return (
-     <div className="min-h-screen px-8 py-2 bg-black text-white flex flex-col font-jost">
+     <div className="min-h-screen px-8 py-2 bg-black text-white flex flex-col font-jost w-full">
       <Navbar />
       <motion.main 
         initial={{ 
